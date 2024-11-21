@@ -1,4 +1,4 @@
-# TwitterBot
+# TechTrendsBot
 https://x.com/TechTrendsBot
 
 A Python-based Twitter bot that posts updates from RSS feeds to Twitter. Runs on an AWS EC2 instance.
